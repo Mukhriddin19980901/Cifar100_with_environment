@@ -41,18 +41,18 @@ Our output data is so large tha but we don't have enough data to train so that w
 
 - Now you can work on jupyter notebook
 
-     (environment_name) C:\cifar100>jupyter notebook
+      (environment_name) C:\cifar100>jupyter notebook
 
 
 # Step - 3 . Coding
  
-- Now you can see the code [here](https://github.com/Mukhriddin19980901/cifar100/blob/main/cifar100code.ipynb).The model was built on CNN.Here you can compare the flactuation of training accuracy and loss after every epoch.It took about 22 minutes and 30 seconds to train data in 20 epochs
+- Now you can see the code [here](https://github.com/Mukhriddin19980901/cifar100/blob/main/cifar100code.ipynb).The model was built on CNN.Here you can compare the flactuation of training accuracy and loss after every epoch.It took about 8 hours and 8 minutes 52 seconds to train data in 20 epochs
 
 
-<img src="" width="700" height="500" />
+<img src="https://github.com/Mukhriddin19980901/cifar100/blob/main/images/cifar100accur.png" width="700" height="500" />
 
 
-- As far as validation concerned the numbers are  , validation accuracy is **79 %**  and validation loss **64 %**
+- As far as validation concerned the numbers are  , validation accuracy is **57 %**
 
 - [Here]() is a notebook for  deploying the model 
 
