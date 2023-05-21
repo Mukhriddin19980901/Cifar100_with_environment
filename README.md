@@ -27,7 +27,7 @@ Our output data is so large tha but we don't have enough data to train so that w
 
        C:\cifar100>python -m venv pip install --user virtualenv
  
- - Give the name to the environmentyou can give any name instead *environment_name*)
+ - Give the name to the environmentyou can give any name instead **environment_name**
 
        C:\cifar100>python -m venv environment_name
 
