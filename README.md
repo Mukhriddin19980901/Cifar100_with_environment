@@ -8,9 +8,9 @@ Our output data is so large tha but we don't have enough data to train so that w
 
 # Step - 1 . Downloading model
 
-- First click the buttons *windows+R*  and type *cmd* in box below clone my model from github on the black window
+- You need to download model from my google drive because it is bigger than 25 MB so here is the link :
 
-       C:\>  git clone https://github.com/Mukhriddin19980901/cifar100.git
+       [C:\>  git clone https://github.com/Mukhriddin19980901/cifar100.git](https://drive.google.com/file/d/1XOMHR2q5YBdko4iYcrw0WFNqHnLMuK41/view?usp=share_link)
 
 - Write this command on black window.
  
